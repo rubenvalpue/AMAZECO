@@ -1,4 +1,4 @@
-![](https://github.com/carlos-alberto-silva/rGEDI/blob/master/readme/fig1.png)<br/>
+![](https://github.com/DRAAlmeida/AMAZECO/AmazecoFigure.png)<br/>
 
 **AMAZECO: Covering the Amazon with an Ecosystem Structure EBV product combining satellite and airborne lidar.**
 
