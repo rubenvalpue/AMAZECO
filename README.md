@@ -1,4 +1,4 @@
-# Amazeco Pipelines:
+# Amazeco Pipelines
 
 ![](https://github.com/DRAAlmeida/AMAZECO/blob/main/AmazecoFigure.png)<br/>
 
