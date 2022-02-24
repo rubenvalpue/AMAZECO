@@ -1,10 +1,10 @@
-## AMAZECO
+## AMAZECO PIPELINES
 
 ![](https://github.com/DRAAlmeida/AMAZECO/blob/main/AmazecoFigure.png)<br/>
 
 **AMAZECO: Covering the Amazon with an Ecosystem Structure EBV product combining satellite and airborne lidar.**
 
-Amazeco aims to provide maps of structural Essential Biodiversity Variables (EBVs), derived from lidar remote sensing. The project wants to support research and decision-making on the conservation, restoration and management of tropical forest ecosystems.
+Amazeco aims to provide maps of Essential Biodiversity Variables (EBVs), derived from lidar remote sensing. The project wants to support research and decision-making on the conservation, restoration, and management of tropical forest ecosystems. Here, on Amazeco's Github, we are providing an R-based tutorial to produce Ecosystem Morphological Traits from airborne and satellite lidar.   
 
 Authors: Danilo Roberti Alves de Almeida, Carlos Alberto Silva, Eric Bastos Gorgens, Mauro de Assis, Michael Keller, Jean Ometto and Ruben Valbuena.
 
