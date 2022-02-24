@@ -20,7 +20,11 @@ GEO BON (Group of Earth Observations—Biodiversity Observation Network).
 
 Almeida et al. (in prep.) Ecosystem Morphological Traits from airborne and satellite lidar.
 
+Almeida, D. R. A. D., Stark, S. C., Shao, G., Schietti, J., Nelson, B. W., Silva, C. A., ... & Brancalion, P. H. S. (2019). Optimizing the remote detection of tropical rainforest structure with airborne lidar: Leaf area profile sensitivity to pulse density and spatial sampling. Remote Sensing, 11(1), 92.
+
 Gorgens, E. B., Nunes, M. H., Jackson, T., Coomes, D., Keller, M., Reis, C. R., ... & Ometto, J. P. (2021). Resource availability and disturbance shape maximum tree height across the Amazon. Global Change Biology, 27(1), 177-189.
+
+Roussel, J. R., Auty, D., Coops, N. C., Tompalski, P., Goodbody, T. R., Meador, A. S., ... & Achim, A. (2020). lidR: An R package for analysis of Airborne Laser Scanning (ALS) data. Remote Sensing of Environment, 251, 112061.
 
 Silva, C. A., Duncanson, L., Hancock, S., Neuenschwander, A., Thomas, N., Hofton, M., ... & Dubayah, R. (2021). Fusing simulated GEDI, ICESat-2 and NISAR data for regional aboveground biomass mapping. Remote Sensing of Environment, 253, 112234.
 
