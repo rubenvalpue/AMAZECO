@@ -18,17 +18,6 @@ Amazeco members are specialists in the use of lidar data in Brazilian Amazon. Ru
 Amazeco funded by Microsoft Artificial Intelligence for Earth programme, EBVs (Essential Biodiversity Variables) on the cloud joint call with
 GEO BON (Group of Earth Observations—Biodiversity Observation Network).
 
-## test R coding
-```{r, test-plot}
-plot(1)         # high-level plot
-abline(0, 1)    # low-level change
-plot(rnorm(10)) # high-level plot
-# many low-level changes in a loop (a single R expression)
-for(i in 1:10) {
-    abline(v = i, lty = 2)
-}
-```
-
 ## References
 
 Almeida et al. (in prep.) Ecosystem Morphological Traits from airborne and satellite lidar.
