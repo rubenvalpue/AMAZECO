@@ -1,4 +1,4 @@
-## Amazeco Pipelines
+# Amazeco Pipelines
 
 ![](https://github.com/DRAAlmeida/AMAZECO/blob/main/AmazecoFigure.png)<br/>
 
@@ -8,15 +8,17 @@ AMAZECO aims to provide maps of Essential Biodiversity Variables (EBVs), based o
    
 Authors: Danilo Roberti Alves de Almeida, Carlos Alberto Silva, Eric Bastos Gorgens, Mauro de Assis, Michael Keller, Jean Ometto and Ruben Valbuena.
 
-# Team
+# Essential Biodiversity Variables from lidar
+
+## Team
 
 Amazeco members are specialists in the use of lidar data in Brazilian Amazon. Ruben Valbuena is the principal investigator of the Amazeco. He has highlighted the need for standardized morphological traits to support public policy and decision-making (Valbuena et al. 2020). Eric Gorgens recently published a paper about the giant trees of the Amazon using lidar (Gorgens et al. 2021). Carlos Silva is expert on GEDI data (Silva et al. 2021) and he is the developer of important lidar R packages (e.g., “ForestGapR” and “Treetop”), including the rGEDI (Silva et al. 2020). Danilo Almeida worked with Brazilian Amazon lidar data during his Masters and Ph.D. studies, and has experience in leaf area density modeling (developer of the R package “leafR”). Mauro Assis has extensive experience with lidar data processing and cloud computing. He has been working with Jean Ometo, coordinator of the EBA project, the largest lidar database in the Brazilian Amazon. Michael Keller is the coordinator of the Sustainable Landscape project, the first and largest multitemporal data collection in the Brazilian Amazon. 
 
-# Acknowledgements
+## Acknowledgements
 Amazeco funded by Microsoft Artificial Intelligence for Earth programme, EBVs (Essential Biodiversity Variables) on the cloud joint call with
 GEO BON (Group of Earth Observations—Biodiversity Observation Network).
 
-# References
+## References
 
 Almeida et al. (in prep.) Ecosystem Morphological Traits from airborne and satellite lidar.
 
